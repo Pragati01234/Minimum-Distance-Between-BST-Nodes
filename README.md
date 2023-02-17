@@ -1,5 +1,5 @@
 # Minimum-Distance-Between-BST-Nodes
-Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)
+Minimum Distance Between BST Nodes](https://github.com/Pragati01234/Minimum-Distance-Between-BST-Nodes/blob/main/README.md)
 (/solution/0700-0799/0783.Minimum%20Distance%20Between%20BST%20Nodes/README.md)
 
 ## Description
